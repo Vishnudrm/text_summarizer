@@ -38,12 +38,3 @@ if __name__ == "__main__":
     interface.launch()
 
 
-# # Test Summarization
-# if __name__ == "__main__":
-#     sample_text = """
-#     Artificial Intelligence is transforming industries across the world. AI models like DeepSeek-R1 enable businesses to automate tasks,
-#     analyze large datasets, and enhance productivity. With advancements in AI, applications range from virtual assistants to predictive analytics
-#     and personalized recommendations.
-#     """
-#     print("### Summary ###")
-#     print(summarize_text(sample_text))
